@@ -4,8 +4,7 @@
 
 This track of the DSTC-6 challenge series is aiming to build End-to-End dialog systems for goal-oriented applications. Goal-oriented dialog technology is an important research issue and End-to-End dialog learning has emerged as a primary research subject in the domain of conversation agent learning. It consists in learning a dialog policy from transactional dialogs of a given domain. In this task, the automatic system responses generated using a given task-oriented dialog data will be evaluated. 
 
-A full description of the task and the dataset is available here
-http://workshop.colips.org/dstc6/proposals/Goal_Oriented_End_To_End_Dialog-Facebook-XRX.pdf
+A full description of the task and the dataset is available [here](http://workshop.colips.org/dstc6/proposals/Goal_Oriented_End_To_End_Dialog-Facebook-XRX.pdf)
 
 ## Test Dataset format and submission
 The test-set is composed with 4 subdirectories: "tst1", "tst2", "tst3", "tst4". 
