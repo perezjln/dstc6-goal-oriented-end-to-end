@@ -13,6 +13,11 @@ A valid submission consists in a tarball (.tgz file) with the 4 subdirectories a
 
 For example, the valid name of the test file **tst1/dialog-task1API-kb1_atmosphere-distr0.5-tst1000.json** must be **tst1/dialog-task1API-kb1_atmosphere-distr0.5-tst1000.answers.json**.
 
+## Submission link
+
+The submission is performed used [this Google Form] (https://goo.gl/forms/24X5i73i2uNOjF412) 
+
+The date of submission will be used as reference to deadline.
 
 ## Contact Information
 You can get the latest updates and participate in discussions on DSTC mailing list
