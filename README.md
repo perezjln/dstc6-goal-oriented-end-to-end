@@ -15,7 +15,7 @@ For example, the valid name of the test file **tst1/dialog-task1API-kb1_atmosphe
 
 ## Submission link
 
-The submission is performed used [this Google Form] (https://goo.gl/forms/24X5i73i2uNOjF412) 
+The submissions have to be performed using [this Google Form] (https://goo.gl/forms/24X5i73i2uNOjF412) 
 
 The date of submission will be used as reference to deadline.
 
